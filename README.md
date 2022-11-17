@@ -1,5 +1,2 @@
-Try to put a blank line before...
-
-# Heading
-
-...and after a heading.
+I really like using Markdown.
+I think I'll use it to format all of my documents from now on.
