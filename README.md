@@ -1,4 +1,6 @@
-I really like using Markdown.
+Here's a paragraph that will be visible.
 
-<font color="red">I think I'll use it to format.</font>
+[This is a comment that will be hidden.]: # 
+
+And here's another paragraph that's visible.
 
