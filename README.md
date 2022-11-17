@@ -1,3 +1,5 @@
-Without blank lines, this might not look right.
+Try to put a blank line before...
+
 # Heading
-Don't do this!
+
+...and after a heading.
