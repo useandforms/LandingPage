@@ -39,4 +39,12 @@ And here's another paragraph that's visible.
 | Header      | Title |
 | Paragraph   | First paragraph. <br><br> Second paragraph. |
 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+
+#### Table of Contents
 - [Underline](#underline)
+- [Indent](#indent)
