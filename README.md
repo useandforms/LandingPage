@@ -29,3 +29,7 @@ And here's another paragraph that's visible.
 &uarr;
 
 &darr;
+
+&#176;
+
+&#960;
