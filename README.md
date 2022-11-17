@@ -50,3 +50,5 @@ And here's another paragraph that's visible.
 - [Indent](#indent)
 - [Center](#center)
 - [Color](#color)
+
+<p>This is the first line.<br>And this is the second line.</p>
