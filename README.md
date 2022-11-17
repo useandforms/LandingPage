@@ -9,3 +9,5 @@ And here's another paragraph that's visible.
 :memo: **Note:** Sunrises are beautiful.
 
 :bulb: **Tip:** Remember to appreciate the little things in life.
+
+<img src="card colors.png" width="200" height="100">
