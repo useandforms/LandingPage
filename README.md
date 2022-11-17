@@ -21,3 +21,5 @@ And here's another paragraph that's visible.
 &trade;
 
 &euro;
+
+&larr;
