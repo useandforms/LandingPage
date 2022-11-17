@@ -38,3 +38,5 @@ And here's another paragraph that's visible.
 | ----------- | ----------- |
 | Header      | Title |
 | Paragraph   | First paragraph. <br><br> Second paragraph. |
+
+- [Underline](#underline)
