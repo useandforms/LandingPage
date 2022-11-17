@@ -85,3 +85,5 @@ This text is <em><strong>really important</strong></em>.
 At the command prompt, type `nano`.
 
 ``At the command prompt, type `nano`.``
+
+***
