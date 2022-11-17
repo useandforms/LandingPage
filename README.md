@@ -56,3 +56,5 @@ And here's another paragraph that's visible.
 <p>This is the first line\And this is the second line.</p>
 
 I just love __bold text__.
+
+This text is <em><strong>really important</strong></em>. 
