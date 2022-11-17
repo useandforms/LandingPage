@@ -79,3 +79,5 @@ This text is <em><strong>really important</strong></em>.
     - Indented item
     - Indented item
 4. Fourth item
+
+``Use `code` in your Markdown file.``
