@@ -69,3 +69,6 @@ This text is <em><strong>really important</strong></em>.
     ![Tux, the Linux mascot](/assets/images/tux.png)
 
 3. Close the file.
+
+- 1968\. A great year!
+- I think 1969 was second best.
