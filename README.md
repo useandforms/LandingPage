@@ -87,3 +87,5 @@ At the command prompt, type `nano`.
 ``At the command prompt, type `nano`.``
 
 ***
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
