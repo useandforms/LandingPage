@@ -48,3 +48,5 @@ And here's another paragraph that's visible.
 #### Table of Contents
 - [Underline](#underline)
 - [Indent](#indent)
+- [Center](#center)
+- [Color](#color)
