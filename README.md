@@ -14,4 +14,4 @@ And here's another paragraph that's visible.
 
 <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
-&copy
+&copy;
