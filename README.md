@@ -5,3 +5,5 @@ Here's a paragraph that will be visible.
 And here's another paragraph that's visible.
 
 :warning: **Warning:** Do not push the big red button.
+
+:memo: **Note:** Sunrises are beautiful.
