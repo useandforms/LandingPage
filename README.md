@@ -51,4 +51,6 @@ And here's another paragraph that's visible.
 - [Center](#center)
 - [Color](#color)
 
-<p>This is the first line.<br>And this is the second line.</p>
+<p>This is the first line<br>And this is the second line.</p>
+
+<p>This is the first line\And this is the second line.</p>
