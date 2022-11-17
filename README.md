@@ -19,3 +19,5 @@ And here's another paragraph that's visible.
 &reg;
 
 &trade;
+
+&enro;
