@@ -72,3 +72,10 @@ This text is <em><strong>really important</strong></em>.
 
 - 1968\. A great year!
 - I think 1969 was second best.
+
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
