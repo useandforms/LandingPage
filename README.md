@@ -23,3 +23,9 @@ And here's another paragraph that's visible.
 &euro;
 
 &larr;
+
+&rarr;
+
+&uarr;
+
+&darr;
