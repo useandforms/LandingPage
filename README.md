@@ -81,3 +81,5 @@ This text is <em><strong>really important</strong></em>.
 4. Fourth item
 
 ``Use `code` in your Markdown file.``
+
+At the command prompt, type `nano`.
