@@ -13,3 +13,5 @@ And here's another paragraph that's visible.
 <img src="card colors.png" width="200" height="100">
 
 <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
+&copy
