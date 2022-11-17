@@ -33,3 +33,8 @@ And here's another paragraph that's visible.
 &#176;
 
 &#960;
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
