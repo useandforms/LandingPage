@@ -60,3 +60,12 @@ I just love __bold text__.
 This text is <em><strong>really important</strong></em>. 
 
 > Dorothy followed her through many of the beautiful rooms in her castle. 
+
+>> Dorothy followed her through many of the beautiful rooms in her castle. 
+
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3. Close the file.
